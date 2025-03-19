@@ -3,7 +3,6 @@
   "name": "OrangeTVCleaner : Cacher les chaînes payantes sur Orange.tv",
   "description": "Masque les chaînes payantes non souscrites sur tv.orange.fr.",
   "version": "1.0",
-  "permissions": ["activeTab"],
   "host_permissions": ["https://tv.orange.fr/*"],
   "content_scripts": [
     {
