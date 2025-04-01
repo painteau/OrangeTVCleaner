@@ -13,6 +13,12 @@ OrangeTVCleaner est une extension de navigateur qui masque automatiquement les c
 
 ## Installation
 
+### Installation via le Chrome Web Store
+
+Visitez la [page de l'extension sur le Chrome Web Store](https://chromewebstore.google.com/detail/orangetvcleaner-cacher-le/bnhfdgkndghmmghoopebabeohjlkigbp) et cliquez sur "Ajouter à Chrome".
+
+### Installation manuelle
+
 1. Téléchargez la dernière version de l'extension
 2. Ouvrez la page des extensions de votre navigateur (Chrome : chrome://extensions/)
 3. Activez le "Mode développeur"
